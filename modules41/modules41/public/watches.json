@@ -1,0 +1,17 @@
+[
+  {
+    "id": 101,
+    "brand": "Omega",
+    "price": 5000
+  },
+  {
+    "id": 102,
+    "brand": "Rolex",
+    "price": 10000
+  },
+  {
+    "id": 103,
+    "brand": "Seiko",
+    "price": 350
+  }
+]
