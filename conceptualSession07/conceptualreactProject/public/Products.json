@@ -1,0 +1,49 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Smartwatch",
+      "image": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "description": "A sleek smartwatch with health tracking and notifications.",
+      "price": 199.99,
+      "category": "Wearables",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "name": "Electric Toothbrush",
+      "image": "https://i.ibb.co/6N2dgnZ/2.png",
+      "description": "An advanced electric toothbrush with multiple cleaning modes.",
+      "price": 89.99,
+      "category": "Personal Care",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "name": "Laptop Bag",
+      "image": "https://i.ibb.co/RzGzcPg/3.png",
+      "description": "A durable and stylish laptop bag with plenty of compartments.",
+      "price": 59.99,
+      "category": "Accessories",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "name": "Portable Speaker",
+      "image": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "description": "Compact Bluetooth speaker with high-quality sound and waterproof design.",
+      "price": 39.99,
+      "category": "Electronics",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "name": "Instant Pot",
+      "image": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "description": "A versatile kitchen appliance for quick and easy cooking.",
+      "price": 129.99,
+      "category": "Home Appliances",
+      "isFeature": true
+    }
+  ]
+}
